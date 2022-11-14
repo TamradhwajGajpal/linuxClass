@@ -1,0 +1,3 @@
+I need to add CSS part in our project.
+Then we are going to use JS in it.
+After that DB.
